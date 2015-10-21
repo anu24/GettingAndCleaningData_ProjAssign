@@ -17,12 +17,12 @@ You should also include a README.md in the repo with your scripts. This repo exp
 4. Extract only those features from the original dataset that are a mean or standard deviation measure (mean or std in feature name).
 5. Add activities, by name, to the single data frame'data'.
 6. Names of Feteatures will labelled using descriptive variable names.
-- prefix t is replaced by time
-- Acc is replaced by Accelerometer
-- Gyro is replaced by Gyroscope
-- prefix f is replaced by frequency
-- Mag is replaced by Magnitude
-- BodyBody is replaced by Body
+ 1. prefix t is replaced by time
+ 2. Acc is replaced by Accelerometer
+ 3. Gyro is replaced by Gyroscope
+ 4. prefix f is replaced by frequency
+ 5. Mag is replaced by Magnitude
+ 6. BodyBody is replaced by Body
 
 7. As a last step, generatedindependent tidy data set with the average of each variable for each activity and each subject.
 8. Exported the tiday data set to "tidydata.txt" file.
