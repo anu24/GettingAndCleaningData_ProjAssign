@@ -1,8 +1,4 @@
----
-title: "CodeBook For Getting and Cleaning data Project"
-output: html_document
----
-
+# "CodeBook For Getting and Cleaning data Project" #
 
 ###Initial Data###
 The "Human Activity Recognition Using Smartphones"" Data Set is taken from the [ Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
