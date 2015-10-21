@@ -17,10 +17,10 @@ The "data" data frame is produced by performing the following transformations:
 6. Names of Feteatures will labelled using descriptive variable names.
  1. prefix t is replaced by time
  2. Acc is replaced by Accelerometer
-- Gyro is replaced by Gyroscope
-- prefix f is replaced by frequency
-- Mag is replaced by Magnitude
-- BodyBody is replaced by Body
+ 3. Gyro is replaced by Gyroscope
+ 4. prefix f is replaced by frequency
+ 5. Mag is replaced by Magnitude
+ 6. BodyBody is replaced by Body
 
 7. As a last step, generatedindependent tidy data set with the average of each variable for each activity and each subject.
 8. Exported the tiday data set to "tidydata.txt" file.
