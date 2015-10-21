@@ -15,8 +15,8 @@ The "data" data frame is produced by performing the following transformations:
 4. Extract only those features from the original dataset that are a mean or standard deviation measure (mean or std in feature name).
 5. Add activities, by name, to the single data frame'data'.
 6. Names of Feteatures will labelled using descriptive variable names.
-- prefix t is replaced by time
-- Acc is replaced by Accelerometer
+ 1. prefix t is replaced by time
+ 2. Acc is replaced by Accelerometer
 - Gyro is replaced by Gyroscope
 - prefix f is replaced by frequency
 - Mag is replaced by Magnitude
